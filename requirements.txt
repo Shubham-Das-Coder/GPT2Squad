@@ -4,6 +4,11 @@ datasets
 evaluate
 nltk
 
+# Optimization & Fine-tuning Libraries
+peft
+bitsandbytes
+accelerate
+
 # PyTorch (GPU build for CUDA 12.1)
 torch==2.5.1+cu121
 torchvision==0.16.1+cu121
