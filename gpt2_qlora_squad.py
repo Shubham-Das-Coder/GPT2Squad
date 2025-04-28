@@ -81,7 +81,7 @@ def main():
 
     training_args = TrainingArguments(
         output_dir=output_dir,
-        per_device_train_batch_size=2,
+        per_device_train_batch_size=100,
         num_train_epochs=3,
         save_steps=500,
         logging_steps=100,
