@@ -72,7 +72,7 @@ def evaluate_model(model_path="gpt2"):
 
 if __name__ == "__main__":
     os.makedirs("results", exist_ok=True)
-    with open("results/evaluate_gpt2_epoch3_squad.txt", "w", encoding="utf-8") as f:
+    with open("results/evaluate_gpt2_qlora_squad.txt", "w", encoding="utf-8") as f:
         original_stdout = sys.stdout
         sys.stdout = Tee(sys.stdout, f)
         try:
