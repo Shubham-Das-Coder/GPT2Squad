@@ -1,0 +1,5 @@
+Epoch 1: Train Loss = 0.0226 | Perplexity = 1.0229 | Accuracy = 99.3234%
+Epoch 2: Train Loss = 0.0072 | Perplexity = 1.0072 | Accuracy = 99.4901%
+Epoch 3: Train Loss = 0.0058 | Perplexity = 1.0058 | Accuracy = 99.4900%
+Epoch 4: Train Loss = 0.0046 | Perplexity = 1.0047 | Accuracy = 99.4900%
+Epoch 5: Train Loss = 0.0037 | Perplexity = 1.0037 | Accuracy = 99.4900%

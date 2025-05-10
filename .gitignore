@@ -1,3 +1,5 @@
 venv/
 data/original/
 best_model/best_model_63.3825/model.safetensors
+gpt2coqa_model/model.safetensors
+colab/

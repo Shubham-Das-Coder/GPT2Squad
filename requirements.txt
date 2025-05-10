@@ -4,22 +4,11 @@ datasets
 evaluate
 nltk
 
-# Optimization & Fine-tuning Libraries
-peft
-bitsandbytes
-accelerate
-
 # PyTorch (GPU build for CUDA 12.1)
 torch==2.5.1+cu121
 torchvision==0.16.1+cu121
 torchaudio==2.5.1+cu121
 --extra-index-url https://download.pytorch.org/whl/cu121
-
-# TensorFlow with GPU Support (CUDA 12.2 & cuDNN 8.9)
-tensorflow==2.13.0
-nvidia-pyindex
-nvidia-cuda-runtime-cu12==12.2.140
-nvidia-cudnn-cu12==8.9.2.26
 
 # Useful Libraries
 numpy
