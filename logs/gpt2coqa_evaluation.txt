@@ -1,3 +1,0 @@
-Evaluation Results for gpt2coqa_model:
-exact_match: 45.7
-f1: 58.28829052698251

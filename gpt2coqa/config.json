@@ -1,7 +1,7 @@
 {
   "activation_function": "gelu_new",
   "architectures": [
-    "GPT2LMHeadModel"
+    "GPT2ForQuestionAnswering"
   ],
   "attn_pdrop": 0.1,
   "bos_token_id": 50256,
